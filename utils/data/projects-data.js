@@ -43,6 +43,8 @@ export const projectsData = [
         image: ayla,
         role: 'Full Stack Developer',
     },
+    
+    
 
 ];
 
